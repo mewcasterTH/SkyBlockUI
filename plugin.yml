@@ -1,0 +1,9 @@
+name: DRP-SkyBlockUI
+main: SkyBlockUI\Main
+author: DaRealPandaz
+api: 3.0.0
+version: 1.0.0
+commands:
+  skyblockui:
+    usage: /is
+    description: Create and manage your island
